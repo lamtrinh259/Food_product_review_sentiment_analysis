@@ -28,4 +28,4 @@ For further development or experimentation, one can:
 - Use a bigram model where a pair of words is a distinct key in the dictionary. 
 - How to treat occurrence of all-cap words (e.g., 'THIS IS AMAZING!')
 - What to do with length of the text. E.g. if a text is long, is that generally a good review, or bad review? 
-- Other features that one can think of. 
+- Incorporate the number of helpful upvotes or downvotes into the weight vectors if they're available. 
