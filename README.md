@@ -22,7 +22,7 @@ Files:
 - reviews_train.tsv : training dataset
 - reviews_val.tsv: validation dataset
 - reviews_test.tsv: test dataset
-- stopwords.txt: the list of stop words
+- stopwords.txt: the list of stop words that I used
 
 For further development or experimentation, one can: 
 - Use a bigram model where a pair of words is a distinct key in the dictionary. 
