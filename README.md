@@ -1,6 +1,8 @@
 # Amazon_food_product_review_sentiment_analysis
 Classify Amazon's food product review to see whether the review was positive (1 value) or negative (-1 value) using linear classifiers built from scratch. The algorithms used are all binary classifiers.
 
+[The live version of this app is here, you can give it a try by inputting your own review.](https://share.streamlit.io/lamtrinh259/food_product_review_sentiment_analysis/main/review_sentiment_app.py)
+
 These are the steps that I took to deliver this project: 
 1. Importing necessary libraries and build some supporting functions: hinge loss to calculate the loss value of each point. 
 2. I built the single-step version of each of these algorithms to solve for Support Vector Machine for one feature and one label: Perceptron, Average Perceptron, and Pegasos. 
